@@ -1,6 +1,6 @@
 - 🙂 Hi, I’m Kim! @khemmerling
 - 🧪 I’m a Biomedical Engineering PhD candidate at Northwestern University.
-- 🔬 I’m currently studying spinal cord fMRI in the Applied-Neurovascular Imaging Lab!
+- 🔬 I’m currently studying spinal cord fMRI in the [Applied-Neurovascular Imaging Lab](https://www.brightlab.northwestern.edu/)!
 - 📫 My Twitter: [**@KJHemm**](https://twitter.com/KJHemm)
 
 Check out [BrightLab-ANVIL/spinalcordplot](https://github.com/BrightLab-ANVIL/spinalcordplot) to learn about and try out my method for qualitative visualization of spinal cord fMRI data! Associated reference: https://doi.org/10.1109/embc46164.2021.9630903
